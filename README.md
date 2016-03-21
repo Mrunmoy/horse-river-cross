@@ -1,4 +1,4 @@
-# horse-river-cross
+# Horse river crossing puzzle solution
 This is a c program to solve the problem of a horse crossing a river over a set of stones.
 
 The rules of the game are :-
