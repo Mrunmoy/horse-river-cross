@@ -13,11 +13,11 @@ This program tries to find all possible paths for the horse to cross the river.
 
 Here is the stone layout:-
 
+/*
 Legends:-
 -----------------------
-|  H   = Horse        |
-|  [n] = Stones       |
-|  --- = river banks  |
+H   = Horse        
+[n] = Stones       
 -----------------------
 
 ---------------------------------------
@@ -27,7 +27,7 @@ Legends:-
                 [11]    [12]    [13]
 ---------------------------------------
                          H
-
+\*
 
 This code can be optimized further.
 
